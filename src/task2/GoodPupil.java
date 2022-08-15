@@ -1,28 +1,27 @@
-package Task2;
+package task2;
 
-public class ExcelentPupil extends Pupil{
-
+public class GoodPupil extends Pupil{
     @Override
     void study() {
         super.study();
-        System.out.print("Excelent");
+        System.out.print("Good");
     }
 
     @Override
     void read() {
         super.read();
-        System.out.print("Excelent");
+        System.out.print("Good");
     }
 
     @Override
     void write() {
         super.write();
-        System.out.print("Excelent");
+        System.out.print("Good");
     }
 
     @Override
     void relax() {
         super.relax();
-        System.out.print("Excelent");
+        System.out.print("Good");
     }
 }

@@ -1,4 +1,4 @@
-package Task2;
+package task2;
 
 /*Используя IntelliJ IDEA, создайте проект. Требуется:
 Создать класс, представляющий учебный класс ClassRoom.
