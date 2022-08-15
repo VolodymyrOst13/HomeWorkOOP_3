@@ -4,24 +4,24 @@ public class GoodPupil extends Pupil{
     @Override
     void study() {
         super.study();
-        System.out.print("Good");
+        System.out.println("I study good");
     }
 
     @Override
     void read() {
         super.read();
-        System.out.print("Good");
+        System.out.println("I read good");
     }
 
     @Override
     void write() {
         super.write();
-        System.out.print("Good");
+        System.out.println("I write good");
     }
 
     @Override
     void relax() {
         super.relax();
-        System.out.print("Good");
+        System.out.println("I relax good");
     }
 }
